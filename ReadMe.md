@@ -1,6 +1,6 @@
 # Johan Lamberth Portfolio
 
-# [Swift G4](https://github.com/Aeliuz/Portfolio/tree/main/Swift%20G4)
+# [Swift G4](https://github.com/Aeliuz/Portfolio/tree/main/Swift%20G4) ← Click for more info!
 
 **Engine:** Unreal Engine
 
@@ -12,7 +12,7 @@
 
 ---
 
-# [Telekinetic](https://github.com/Aeliuz/Portfolio/tree/main/Telekinetic)
+# [Telekinetic](https://github.com/Aeliuz/Portfolio/tree/main/Telekinetic) ← Click for more info!
 
 **Engine:** Unreal Engine
 
@@ -22,7 +22,7 @@
 
 ---
 
-# [Gearlock](https://github.com/Aeliuz/Portfolio/tree/main/Gearlock)
+# [Gearlock](https://github.com/Aeliuz/Portfolio/tree/main/Gearlock) ← Click for more info!
 
 **Engine:** Unity
 
