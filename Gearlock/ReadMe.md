@@ -1,4 +1,4 @@
-# Swift G4
+# Gearlock
 
 [Itch.io](https://yrgo-game-creator.itch.io/gearlock)
 
