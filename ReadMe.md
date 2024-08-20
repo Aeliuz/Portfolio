@@ -2,7 +2,7 @@
 
 ## Games
 
-### Swift G4
+### [Swift G4](https://github.com/Aeliuz/Portfolio/tree/main/Swift%20G4)
 
 Engine: Unreal Engine
 
@@ -11,7 +11,7 @@ Genre: Parkour, speedrunner
 Team: 4 programmer and 4 artists
 
 
-### Hook
+### [Telekinetic](https://github.com/Aeliuz/Portfolio/tree/main/Telekinetic)
 
 Engine: Unreal Engine
 
@@ -20,7 +20,7 @@ Genre: Telekinesis, Boss fight
 Team: Solo project
 
 
-### Gearlock
+### [Gearlock](https://github.com/Aeliuz/Portfolio/tree/main/Gearlock)
 
 Engine: Unity
 
