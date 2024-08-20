@@ -28,7 +28,7 @@
 
 **Engine:** Unity
 
-**Genre:** Card game, roguelike
+**Genre:** Card game, tile-based, tactical
 
 **Team:** 3 programmers, 3 artists
 | ![Image 1](https://github.com/Aeliuz/Portfolio/blob/main/Media/gearlock1.png) | ![Image 2](https://github.com/Aeliuz/Portfolio/blob/main/Media/gearlock2.png) |  
