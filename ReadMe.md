@@ -1,8 +1,6 @@
 # Johan Lamberth Portfolio
 
-## Games
-
-### [Swift G4](https://github.com/Aeliuz/Portfolio/tree/main/Swift%20G4)
+# [Swift G4](https://github.com/Aeliuz/Portfolio/tree/main/Swift%20G4)
 
 **Engine:** Unreal Engine
 
@@ -14,7 +12,7 @@
 
 ---
 
-### [Telekinetic](https://github.com/Aeliuz/Portfolio/tree/main/Telekinetic)
+# [Telekinetic](https://github.com/Aeliuz/Portfolio/tree/main/Telekinetic)
 
 **Engine:** Unreal Engine
 
@@ -24,7 +22,7 @@
 
 ---
 
-### [Gearlock](https://github.com/Aeliuz/Portfolio/tree/main/Gearlock)
+# [Gearlock](https://github.com/Aeliuz/Portfolio/tree/main/Gearlock)
 
 **Engine:** Unity
 
