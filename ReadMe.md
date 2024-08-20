@@ -10,6 +10,7 @@
 
 **Team:** 4 programmer and 4 artists
 
+---
 
 ### [Telekinetic](https://github.com/Aeliuz/Portfolio/tree/main/Telekinetic)
 
@@ -19,6 +20,7 @@
 
 **Team:** Solo project
 
+---
 
 ### [Gearlock](https://github.com/Aeliuz/Portfolio/tree/main/Gearlock)
 
