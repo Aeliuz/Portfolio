@@ -4,26 +4,26 @@
 
 ### [Swift G4](https://github.com/Aeliuz/Portfolio/tree/main/Swift%20G4)
 
-Engine: Unreal Engine
+**Engine:** Unreal Engine
 
-Genre: Parkour, speedrunner
+**Genre:** Parkour, speedrunner
 
-Team: 4 programmer and 4 artists
+**Team:** 4 programmer and 4 artists
 
 
 ### [Telekinetic](https://github.com/Aeliuz/Portfolio/tree/main/Telekinetic)
 
-Engine: Unreal Engine
+**Engine:** Unreal Engine
 
-Genre: Telekinesis, Boss fight
+**Genre:** Telekinesis, Boss fight
 
-Team: Solo project
+**Team:** Solo project
 
 
 ### [Gearlock](https://github.com/Aeliuz/Portfolio/tree/main/Gearlock)
 
-Engine: Unity
+**Engine:** Unity
 
-Genre: Card game, roguelike
+**Genre:** Card game, roguelike
 
-Team: 3 programmers, 3 artists
+**Team:** 3 programmers, 3 artists
