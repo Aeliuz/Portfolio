@@ -6,9 +6,11 @@
 
 **Engine:** Unreal Engine
 
-**Genre:** Parkour, speedrunner
+**Genre:** Parkour, speedrunner, First person
 
 **Team:** 4 programmer and 4 artists
+| ![Image 1](https://github.com/Aeliuz/Portfolio/blob/main/Media/Swift1.png) | ![Image 2](https://github.com/Aeliuz/Portfolio/blob/main/Media/Swift2.png) |  
+|:--:|:--:|
 
 ---
 
@@ -16,7 +18,7 @@
 
 **Engine:** Unreal Engine
 
-**Genre:** Telekinesis, Boss fight
+**Genre:** Telekinesis, Action, First person
 
 **Team:** Solo project
 
@@ -29,3 +31,6 @@
 **Genre:** Card game, roguelike
 
 **Team:** 3 programmers, 3 artists
+| ![Image 1](https://github.com/Aeliuz/Portfolio/blob/main/Media/gearlock1.png) | ![Image 2](https://github.com/Aeliuz/Portfolio/blob/main/Media/gearlock2.png) |  
+|:--:|:--:|
+| ![Image 3](https://github.com/Aeliuz/Portfolio/blob/main/Media/gearlock3.png) | ![Image 4](https://github.com/Aeliuz/Portfolio/blob/main/Media/gearlock4.png) | 
