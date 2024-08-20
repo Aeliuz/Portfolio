@@ -7,7 +7,7 @@
 ## Game description
 Swift G4 is a Mirror's Edge inspired parkour game, where you try to outrun an explosion. Find the most effecient path and improve your time!
 
-## My contribution
+# My contribution
 
 ## Movement system
 I was in charge of creating the movement system for the game. I'll break down the movement to it's component parts.
